@@ -72,7 +72,7 @@ function Where() {
                 Vishal Mega Mart)
               </p>
               <p>
-                <i className="ti-direction"></i>Ganag Nagar Meeurt
+                <i className="ti-direction"></i>Ganga Nagar Meeurt
               </p>
               <a
                 href="https://www.google.com/maps/dir/29.0067639,77.7594771/hotel+limewood+meerut/@29.0042491,77.7565893,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390c7ada3a38576b:0x9b45a461de9d050d!2m2!1d77.75861!2d29.0017312"

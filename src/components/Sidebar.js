@@ -22,7 +22,7 @@ function Sidebar() {
       </a>
       <aside id="oliven-aside">
         <div className="oliven-logo">
-          <a href="/">
+          <a href="#home">
             <img src={Logo} alt="" />
             <span>
               Shweta <small>&</small> Gopal

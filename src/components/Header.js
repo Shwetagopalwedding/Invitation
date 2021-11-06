@@ -10,7 +10,7 @@ function Header() {
               Shweta & Gopal
             </h1>
             <h5 className="animate-box" data-animate-effect="fadeInUp">
-              21 November, 2021 – Meerut,Uttar Pradesh
+              21st November, 2021 – Meerut,Uttar Pradesh
             </h5>
           </div>
         </div>

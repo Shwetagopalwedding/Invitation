@@ -21,7 +21,7 @@ function Bridegroom() {
                     Shweta Tyagi<i className="ti-heart"></i>
                   </h6>{" "}
                   <span>The Bride</span>
-                  <p>Daughter of MRs. Anju Tyagi and Anand Tyagi</p>
+                  <p>Daughter of MRs. Anju Tyagi and MR. Anand Tyagi</p>
                   <div className="social">
                     <div className="full-width">
                       <a href="#0" className="icon">
@@ -57,7 +57,7 @@ function Bridegroom() {
                     Gopal Jee <i className="ti-heart"></i>
                   </h6>{" "}
                   <span>The Groom</span>
-                  <p></p>
+                  <p>Son of MRS. Baby Kumari and MR. Rabindra Kumar </p>
                   <div className="social">
                     <div className="full-width">
                       <a href="#0" className="icon">

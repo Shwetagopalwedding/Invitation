@@ -57,7 +57,7 @@ function Bridegroom() {
                     Gopal Jee <i className="ti-heart"></i>
                   </h6>{" "}
                   <span>The Groom</span>
-                  <p>Son of MRS. Baby Kumari and MR. Rabindra Kumar </p>
+                  <p>Son of MRs. Baby Kumari and MR. Rabindra Kumar </p>
                   <div className="social">
                     <div className="full-width">
                       <a href="#0" className="icon">

@@ -19,7 +19,7 @@ function Organization() {
             <h6 className="title">Lagan Sagai</h6>
             <p>Friday, 19th Nov,2021</p>
             <p>Time- 3:00PM</p>
-            <p>Venue-House no. 291 JF Pocket Ganga Nagar</p>
+            <p>Venue-Hotel Lime Wood</p>
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">02</h2>
@@ -33,7 +33,7 @@ function Organization() {
             <h6 className="title">Madha</h6>
             <p>21st Nov,2021</p>
             <p>Time- 10:00PM</p>
-            <p>Venue-Hotel Lime Wood</p>
+            <p>Venue-House no. 291 JF Pocket Ganga Nagar</p>
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">04</h2>

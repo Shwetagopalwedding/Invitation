@@ -183,8 +183,8 @@ input[type="reset"],
 input[type="button"],
 button {
   font-family: "Nunito Sans", sans-serif;
-  background: #a22a27a;
-  border: 1px solid #a22a27a;
+  background: #bd945a;
+  border: 1px solid #bd945a;
   color: #fff;
   padding: 15px 30px;
   margin: 0;
@@ -250,7 +250,7 @@ input[type="checkbox"]:before {
 input[type="checkbox"]:after {
   font-family: "themify";
   content: "\e64c";
-  color: #a22a27a;
+  color: #bd945a;
   background: transparent;
   position: absolute;
   top: 1px;
@@ -293,7 +293,7 @@ input[type="radio"]:before {
   display: inline-block;
   top: 0px;
   left: -4px;
-  background-image: radial-gradient(circle, #a22a27a 50%, #fff 70%);
+  background-image: radial-gradient(circle, #bd945a 50%, #fff 70%);
   background-size: 0;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -430,10 +430,10 @@ input[type="radio"]:checked:before {
   background: #fff;
 }
 ::-webkit-scrollbar-thumb {
-  background: #a22a27a;
+  background: #bd945a;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #a22a27a;
+  background: #bd945a;
 }
 
 /* ===== Selection ===== */
@@ -463,10 +463,10 @@ input[type="radio"]:checked:before {
 }
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #a22a27a;
+  background: #bd945a;
 }
 .owl-theme .owl-nav [class*="owl-"] {
-  background-color: #a22a27a;
+  background-color: #bd945a;
   width: 30px;
   height: 30px;
   line-height: 25px;
@@ -477,7 +477,7 @@ input[type="radio"]:checked:before {
   font-size: 12px;
   margin: 5px;
   padding: 4px 7px;
-  background: #a22a27a;
+  background: #bd945a;
   display: inline-block;
   cursor: pointer;
   border-radius: 3px;
@@ -493,8 +493,8 @@ input[type="radio"]:checked:before {
 }
 .owl-theme .owl-nav [class*="owl-"]:hover {
   background-color: transparent;
-  border: 1px solid #a22a27a;
-  color: #a22a27a;
+  border: 1px solid #bd945a;
+  color: #bd945a;
 }
 
 /* ===== Sidebar style ===== */
@@ -625,12 +625,12 @@ input[type="radio"]:checked:before {
   border-bottom: 1px solid transparent;
 }
 #oliven-aside .oliven-main-menu ul li a:hover {
-  border-bottom: 1px solid #a22a27a;
+  border-bottom: 1px solid #bd945a;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
 #oliven-aside .oliven-main-menu ul li.oliven-active a {
-  color: #a22a27a;
+  color: #bd945a;
 }
 #oliven-aside .oliven-main-menu ul li.oliven-active a:after {
   visibility: visible;
@@ -659,7 +659,7 @@ input[type="radio"]:checked:before {
   width: 75px;
 }
 #oliven-aside .footer1 a {
-  color: #a22a27a;
+  color: #bd945a;
 }
 #oliven-aside .separator {
   width: 60px;
@@ -801,7 +801,7 @@ input[type="radio"]:checked:before {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  background: #a22a27a;
+  background: #bd945a;
   margin: 15px 30px;
   border-radius: 50%;
 }
@@ -937,7 +937,7 @@ body.slide .oliven-nav-toggle {
   font-family: "Alex Brush", cursive;
   font-weight: 400;
   font-size: 30px;
-  color: #a22a27a;
+  color: #bd945a;
   line-height: 1.25em;
   margin-bottom: 10px;
 }
@@ -948,7 +948,7 @@ body.slide .oliven-nav-toggle {
   font-family: "Alex Brush", cursive;
   font-weight: 400;
   font-size: 60px;
-  color: #a22a27a;
+  color: #bd945a;
   line-height: 1.5em;
   margin-bottom: 5px;
 }
@@ -966,7 +966,7 @@ body.slide .oliven-nav-toggle {
   font-family: "Alex Brush", cursive;
   font-weight: 400;
   font-size: 30px;
-  color: #a22a27a;
+  color: #bd945a;
   line-height: 1.5em;
   margin-bottom: 10px;
 }
@@ -994,11 +994,11 @@ body.slide .oliven-nav-toggle {
   margin-bottom: 5px;
 }
 .bridegroom .info h6 i {
-  color: #a22a27a;
+  color: #bd945a;
   font-size: 16px;
 }
 .bridegroom .info span {
-  color: #a22a27a;
+  color: #bd945a;
   font-size: 24px;
   font-weight: 400;
   font-family: "Alex Brush", cursive;
@@ -1021,8 +1021,8 @@ body.slide .oliven-nav-toggle {
   font-size: 12px;
 }
 .bridegroom .info .social a:hover {
-  background-color: #a22a27a;
-  border-color: #a22a27a;
+  background-color: #bd945a;
+  border-color: #bd945a;
   color: #fff;
 }
 .bridegroom .toright .img {
@@ -1134,7 +1134,7 @@ body.slide .oliven-nav-toggle {
   right: 0;
   left: 45px;
   bottom: 0;
-  border: 10px solid #a22a27a;
+  border: 10px solid #bd945a;
 }
 .story .story-img .img img {
   position: relative;
@@ -1206,7 +1206,7 @@ body.slide .oliven-nav-toggle {
 /* ===== Organization style  ===== */
 .organization .bord-box {
   overflow: hidden;
-  background-image: url(./assets/images/slider.jpg);
+  background-image: url(./assets/images/Slider.jpg);
 }
 .organization .item-box {
   padding: 60px 30px;
@@ -1235,7 +1235,7 @@ body.slide .oliven-nav-toggle {
   font-size: 75px;
   margin-bottom: 15px;
   color: transparent;
-  -webkit-text-stroke: 1px #a22a27a;
+  -webkit-text-stroke: 1px #bd945a;
 }
 .organization .item-box .title {
   font-size: 21px;
@@ -1313,7 +1313,7 @@ body.slide .oliven-nav-toggle {
 .gallery-menu a.active,
 .gallery-menu a:hover {
   color: #fff;
-  background-color: #a22a27a;
+  background-color: #bd945a;
 }
 .gallery-item {
   position: relative;
@@ -1400,7 +1400,7 @@ body.slide .oliven-nav-toggle {
   font-style: italic;
 }
 .whenwhere .item .content .tag a:hover {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .whenwhere .item .content h5 {
   font-size: 21px;
@@ -1409,7 +1409,7 @@ body.slide .oliven-nav-toggle {
   text-transform: uppercase;
 }
 .whenwhere .item .content p i {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .whenwhere-entry {
   width: 100%;
@@ -1479,8 +1479,8 @@ body.slide .oliven-nav-toggle {
 }
 .buttono a {
   font-family: "Nunito Sans", sans-serif;
-  background: #a22a27a;
-  border: 1px solid #a22a27a;
+  background: #bd945a;
+  border: 1px solid #bd945a;
   color: #fff;
   padding: 10px 20px;
   margin: 0;
@@ -1607,7 +1607,7 @@ body.slide .oliven-nav-toggle {
   position: absolute;
   width: 26px;
   height: 26px;
-  background: #a22a27a;
+  background: #bd945a;
   animation: lds-heart 1.2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 .lds-heart div:after,
@@ -1617,7 +1617,7 @@ body.slide .oliven-nav-toggle {
   display: block;
   width: 26px;
   height: 26px;
-  background: #a22a27a;
+  background: #bd945a;
 }
 .lds-heart div:before {
   left: -17px;
@@ -1762,7 +1762,7 @@ body.slide .oliven-nav-toggle {
 }
 .blog-page .post-cont .tag:hover,
 .blog-page .post-cont .date:hover {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .blog-page .post-cont h5 {
   font-size: 27px;
@@ -1772,7 +1772,7 @@ body.slide .oliven-nav-toggle {
   color: #000;
 }
 .blog-page .post-cont h5 a:hover {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .blog-page .post-cont .info {
   margin-top: 0px;
@@ -1803,16 +1803,16 @@ body.slide .oliven-nav-toggle {
   margin-bottom: 10px;
 }
 .blog-sidebar .widget ul li:hover {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .blog-sidebar .widget ul li a {
   color: #888;
 }
 .blog-sidebar .widget ul li a.active {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .blog-sidebar .widget ul li a:hover {
-  color: #a22a27a;
+  color: #bd945a;
 }
 .blog-sidebar .widget ul li:last-child {
   margin-bottom: 0;
@@ -1880,7 +1880,7 @@ body.slide .oliven-nav-toggle {
 .blog-sidebar ul.tags li:hover,
 .blog-sidebar ul.tags li a:hover {
   color: #fff;
-  background-color: #a22a27a;
+  background-color: #bd945a;
 }
 .blog-comment-section {
   padding-top: 60px;
@@ -1947,13 +1947,13 @@ body.slide .oliven-nav-toggle {
 .blog-pagination-wrap li a:hover {
   opacity: 1;
   text-decoration: none;
-  background-color: #a22a27a;
-  border: 1px solid #a22a27a;
+  background-color: #bd945a;
+  border: 1px solid #bd945a;
   color: #fff;
 }
 .blog-pagination-wrap li a.active {
-  background-color: #a22a27a;
-  border: 1px solid #a22a27a;
+  background-color: #bd945a;
+  border: 1px solid #bd945a;
   color: #fff;
 }
 .blog-pagination-wrap li a i {

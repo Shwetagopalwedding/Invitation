@@ -30,17 +30,17 @@ function Organization() {
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">03</h2>
-            <h6 className="title">Wedding</h6>
+            <h6 className="title">Madha</h6>
             <p>21st Nov,2021</p>
-            <p>Time- 8:00PM</p>
+            <p>Time- 10:00PM</p>
+            <p>Venue-Hotel Lime Wood</p>
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">04</h2>
-            <h6 className="title">Cake Cutting</h6>
-            <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
-            </p>
+            <h6 className="title">Wedding</h6>
+            <p>21st Nov,2021</p>
+            <p>Time- 8:00PM</p>
+            <p>Venue-Paradise View Resort</p>
           </div>
         </div>
       </div>

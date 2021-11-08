@@ -22,7 +22,7 @@ function Footer() {
               alt="linkedin"
               target="_blank"
               className="copyright"
-              style={{ marginTop: "5px", color: "black" }}
+              style={{ marginTop: "5px" }}
             >
               Made with ❤️ By Ankit Tyagi
             </a>

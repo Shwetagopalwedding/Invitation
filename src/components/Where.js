@@ -51,6 +51,7 @@ function Where() {
               </p>
               <p>
                 <i className="ti-time"></i> <span>21st November2021 </span>
+                {"     "}
                 <span> 8:00pm</span>
               </p>
               <a

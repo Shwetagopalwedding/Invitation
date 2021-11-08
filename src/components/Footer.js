@@ -17,6 +17,15 @@ function Footer() {
             <p className="copyright">
               November 21, 2021 –Meerut, Uttar Pradesh
             </p>
+            <a
+              href="https://www.linkedin.com/in/ankittyagi-webdeveloper/"
+              alt="linkedin"
+              className="copyright"
+              style={{ marginTop: "5px", color: "black" }}
+              target="_blank"
+            >
+              Made with ❤️ By Ankit Tyagi
+            </a>
           </div>
         </div>
       </div>

@@ -20,9 +20,9 @@ function Footer() {
             <a
               href="https://www.linkedin.com/in/ankittyagi-webdeveloper/"
               alt="linkedin"
+              target="_blank"
               className="copyright"
               style={{ marginTop: "5px", color: "black" }}
-              target="_blank"
             >
               Made with ❤️ By Ankit Tyagi
             </a>

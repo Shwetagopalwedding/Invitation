@@ -52,7 +52,7 @@ function Where() {
               <p>
                 <i className="ti-time"></i> <span>21st November2021 </span>
                 {"     "}
-                <span> 8:00pm</span>
+                <span>Time-8:00pm</span>
               </p>
               <a
                 href="https://www.google.com/maps/place/PARADISE+VIEW+RESORT/@29.01662,77.7601334,13z/data=!4m20!1m14!4m13!1m5!1m1!1s0x390c7ac7730dda4d:0xbd489d6bf98d2ac1!2m2!1d77.7601334!2d29.01662!1m6!1m2!1s0x390c7ac7730dda4d:0xbd489d6bf98d2ac1!2sPARADISE+VIEW+RESORT,+Meerut+-+Pauri+National+Hwy,+Meerut,+Uttar+Pradesh+250001!2m2!1d77.7601334!2d29.01662!3m4!1s0x390c7ac7730dda4d:0xbd489d6bf98d2ac1!8m2!3d29.01662!4d77.7601334"

@@ -32,14 +32,14 @@ function Organization() {
             <h2 className="custom-font numb">03</h2>
             <h6 className="title">Madha</h6>
             <p>21st Nov,2021</p>
-            <p>Time- 10:00PM</p>
+            <p>Time- 10:00 AM</p>
             <p>Venue-House no. 291 JF Pocket Ganga Nagar</p>
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">04</h2>
             <h6 className="title">Wedding</h6>
             <p>21st Nov,2021</p>
-            <p>Time- 8:00PM</p>
+            <p>Dinner Time- 8:00 PM</p>
             <p>Venue-Paradise View Resort</p>
           </div>
         </div>

@@ -7,7 +7,7 @@ function Countdown() {
         minute = second * 60,
         hour = minute * 60,
         day = hour * 24;
-      let birthday = "Nov 20, 2021 00:00:00",
+      let birthday = "Mar 5, 2022 00:00:00",
         countDown = new Date(birthday).getTime(),
         x = setInterval(function () {
           let now = new Date().getTime(),
@@ -31,10 +31,9 @@ function Countdown() {
             let headline = document.getElementById("headline"),
               countdown = document.getElementById("countdown"),
               content = document.getElementById("content");
-
-            headline.innerText = "It's our wedding!";
-            countdown.style.display = "none";
-            content.style.display = "block";
+           headline.innerText = "It's our wedding!";
+           countdown.style.display = "none";
+           content.style.display = "block";
 
             clearInterval(x);
           }

@@ -25,9 +25,9 @@ function Sidebar() {
           <a href="#home">
             <img src={Logo} alt="" />
             <span>
-              Shweta <small>&</small> Gopal
+              सुमित <small>&</small> प्रमीला
             </span>
-            <h6>21.11.2021</h6>
+            <h6>04.03.2022</h6>
           </a>
         </div>
         <nav className="oliven-main-menu">
@@ -52,9 +52,9 @@ function Sidebar() {
           {" "}
           <span className="separator"></span>
           <p>
-            Shweta & Gopal wedding
+            सुमित & प्रमीला शादी
             <br />
-            21st November 2021, Meerut UP
+            4 मार्च, 2022 –चौपाल नं.2,गांव घॏण्डली कृष्णा नगर दिल्ली
           </p>
         </div>
       </aside>

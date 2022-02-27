@@ -1,6 +1,6 @@
 import React from "react";
-import Bride from "../assets/images/bride.jpeg";
-import Groom from "../assets/images/groom.jpeg";
+import Bride from "../assets/images/Bride.jpg";
+import Groom from "../assets/images/groom.jpg";
 function Bridegroom() {
   return (
     <div id="couple" className="bridegroom clear section-padding bg-pink">
@@ -18,10 +18,10 @@ function Bridegroom() {
               <div className="info valign">
                 <div className="full-width">
                   <h6>
-                    Shweta Tyagi<i className="ti-heart"></i>
+                    सुमित त्यागी<i className="ti-heart"></i>
                   </h6>{" "}
-                  <span>The Bride</span>
-                  <p>Daughter of MRs. Anju Tyagi and MR. Anand Tyagi</p>
+                  <span>दूल्हा</span>
+                  <p>सुपुत्र स्व.श्री मती बाला त्यागी एवं स्व.श्री राम सिंह त्यागी</p>
                   <div className="social">
                     <div className="full-width">
                       <a href="#0" className="icon">
@@ -54,10 +54,10 @@ function Bridegroom() {
               <div className="info valign">
                 <div className="full-width">
                   <h6>
-                    Gopal Jee <i className="ti-heart"></i>
+                    प्रमीला  <i className="ti-heart"></i>
                   </h6>{" "}
-                  <span>The Groom</span>
-                  <p>Son of MRs. Baby Kumari and MR. Rabindra Kumar </p>
+                  <span>दुल्हन</span>
+                  <p>सुपुत्री श्री मती विमला देवी एवं श्री राजकुमार</p>
                   <div className="social">
                     <div className="full-width">
                       <a href="#0" className="icon">
@@ -86,7 +86,7 @@ function Bridegroom() {
           >
             <h3 className="oliven-couple-title">Are getting married!</h3>
             <h4 className="oliven-couple-subtitle">
-              November 21st, 2021 — Meerut, Uttar Pradesh
+            4 मार्च, 2022 –चौपाल नं.2,गांव घॏण्डली कृष्णा नगर दिल्ली
             </h4>
           </div>
         </div>

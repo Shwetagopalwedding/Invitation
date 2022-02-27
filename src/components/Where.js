@@ -27,7 +27,7 @@ function Where() {
               </p>
               <p>
                 <i className="ti-time"></i>
-                <span>20th November2021</span> <span>7:00pm</span>
+                <span>20th November2022</span> <span>7:00pm</span>
               </p>
               <a
                 href="https://www.google.com/maps/place/JF-291,+KP+Pocket,+Ganga+Nagar,+Meerut,+Uttar+Pradesh+250001/@29.0069744,77.7596037,19.5z/data=!4m19!1m13!4m12!1m4!2m2!1d77.7594771!2d29.0067639!4e1!1m6!1m2!1s0x390c7ac52a83da9b:0x6a6b4692eac8cce1!2sJF-291,+KP+Pocket,+Ganga+Nagar,+Meerut,+Uttar+Pradesh+250001!2m2!1d77.7594833!2d29.0067792!3m4!1s0x390c7ac52a83da9b:0x6a6b4692eac8cce1!8m2!3d29.0067792!4d77.7594833"
@@ -50,7 +50,7 @@ function Where() {
                 Nagar Meerut
               </p>
               <p>
-                <i className="ti-time"></i> <span>21st November2021 </span>
+                <i className="ti-time"></i> <span>4 November2022 </span>
                 {"     "}
                 <span>Time-8:00pm</span>
               </p>

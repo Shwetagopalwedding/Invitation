@@ -10,12 +10,12 @@ function Footer() {
               <a href="/">
                 <img src={Logo} alt="" />
                 <span>
-                  Shweta <small>&</small> Gopal
+                  सुमित <small>&</small> प्रमीला
                 </span>
               </a>
             </h2>
             <p className="copyright">
-              November 21, 2021 –Meerut, Uttar Pradesh
+            4 मार्च, 2022 –चौपाल नं.2,गांव घॏण्डली कृष्णा नगर दिल्ली
             </p>
             <a
               href="https://www.linkedin.com/in/ankittyagi-webdeveloper/"

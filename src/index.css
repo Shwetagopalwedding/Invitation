@@ -21,7 +21,7 @@
 18. Gift Registry style
 19. When & Where style
 20. Gift style
-21. Button style
+04. Button style
 22. Blog & Post style
 23. Footer style
 24. Media Query style
@@ -1207,7 +1207,7 @@ body.slide .oliven-nav-toggle {
 /* ===== Organization style  ===== */
 .organization .bord-box {
   overflow: hidden;
-  background-image: url(./assets/images/Slider.jpg);
+  background-image: url(./assets/images/slider.jpg);
 }
 .organization .item-box {
   padding: 60px 30px;
@@ -1239,7 +1239,7 @@ body.slide .oliven-nav-toggle {
   -webkit-text-stroke: 1px #a22a27;
 }
 .organization .item-box .title {
-  font-size: 21px;
+  font-size: 04px;
   margin-top: 10px;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -1404,7 +1404,7 @@ body.slide .oliven-nav-toggle {
   color: #a22a27;
 }
 .whenwhere .item .content h5 {
-  font-size: 21px;
+  font-size: 04px;
   margin-top: 10px;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -1609,7 +1609,7 @@ body.slide .oliven-nav-toggle {
   width: 26px;
   height: 26px;
   background: #a22a27;
-  animation: lds-heart 1.2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+  animation: lds-heart 1.2s infinite cubic-bezier(0.045, 0.61, 0.355, 1);
 }
 .lds-heart div:after,
 .lds-heart div:before {
@@ -1841,7 +1841,7 @@ body.slide .oliven-nav-toggle {
 .blog-sidebar .widget-title h6 {
   padding-bottom: 0;
   border-bottom: 1px solid #f1eaea;
-  font-size: 21px;
+  font-size: 04px;
   line-height: 1.75em;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -1902,7 +1902,7 @@ body.slide .oliven-nav-toggle {
   margin-right: 26px;
 }
 .blog-user-content h3 {
-  font-size: 21px;
+  font-size: 04px;
   color: #000;
   margin: 0 0 15px;
 }
